@@ -1,1 +1,1 @@
-# A repo of exercices I have found on the internet and done
+# Basic JavaScript and TypeScript I have found and done on the internet
