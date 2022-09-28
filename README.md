@@ -1,1 +1,1 @@
-# exercices
+# A repo of exercices I have found on the internet and done
