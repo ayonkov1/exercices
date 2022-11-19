@@ -13,4 +13,4 @@ res = requests.get(url).json()
 
 statuscode = res["info"]["statuscode"]
 
-print(url)
+print(res)
