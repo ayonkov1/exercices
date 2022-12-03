@@ -1,3 +1,13 @@
+text = "asd"  # string
+number = 1  # int / float
+boolean = True / False
+numbersArray = ["Ford", "green"]
+numbersObject = {"brand": "Ford", "color": "green"}
+
+for element in numbersArray:
+    print(element)
+
+
 from netmiko import ConnectHandler
 
 config_commands = ["int loopback 1", "ip address 2.2.2.2 255.255.255.0", "description WHATEVER"]
