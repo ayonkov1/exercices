@@ -7,10 +7,12 @@ numbersObject = {"brand": "Ford", "color": "green"}
 for element in numbersArray:
     print(element)
 
-
 from netmiko import ConnectHandler
 
-config_commands = ["int loopback 1", "ip address 2.2.2.2 255.255.255.0", "description WHATEVER"]
+config_commands = [
+    "int loopback 1", "ip address 2.2.2.2 255.255.255.0",
+    "description WHATEVER"
+]
 
 sshCli = ConnectHandler(
     device_type="cisco_ios",

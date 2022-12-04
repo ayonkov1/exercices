@@ -1,7 +1,4 @@
-x = int(input())
-y = int(input())
+num = 5 / 10
+dict = [{"asd": "asd"}]
 
-x = x // y
-y = y // x
-
-print(y)
+print(type(dict))
