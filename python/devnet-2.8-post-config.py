@@ -17,7 +17,7 @@ netconf_data = """
 <ip>
 <address>
 <primary>
-<address>100.100.100.100</address>
+<address>100.100.100.10</address>
 <mask>255.255.255.0</mask>
 </primary>
 </address>

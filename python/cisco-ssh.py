@@ -1,12 +1,3 @@
-text = "asd"  # string
-number = 1  # int / float
-boolean = True / False
-numbersArray = ["Ford", "green"]
-numbersObject = {"brand": "Ford", "color": "green"}
-
-for element in numbersArray:
-    print(element)
-
 from netmiko import ConnectHandler
 
 config_commands = [

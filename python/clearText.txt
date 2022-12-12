@@ -1,0 +1,10 @@
+arabic
+dutch
+chinese
+persian
+english
+french
+italian
+spanish
+latin
+urdu
